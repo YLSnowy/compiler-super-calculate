@@ -1,0 +1,16 @@
+asmout.s
+err.log
+test/1/*.out
+test/1/*.output
+test/1/*.s
+test/2/*.out
+test/2/*.output
+test/2/*.s
+test/3/*.out
+test/3/*.output
+test/3/*.s
+test/4/*.out
+test/4/*.output
+test/4/*.s
+main.out
+test.out

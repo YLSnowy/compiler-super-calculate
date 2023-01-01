@@ -1,0 +1,11 @@
+asmout.s
+.DS_Store
+bin/main.out
+x86_tests/main.out
+test.out
+.vscode
+src/main.lex.yy.cpp
+src/main.output
+src/main.tab.cpp
+src/main.tab.h
+src/pch.h.gch
